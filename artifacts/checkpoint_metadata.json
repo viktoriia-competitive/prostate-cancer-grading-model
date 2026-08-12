@@ -1,0 +1,27 @@
+{
+  "file": "best_model_finetuned.pt",
+  "size_bytes": 320829689,
+  "epoch_stored_zero_based": 9,
+  "epoch_human_readable": 10,
+  "qwk": 0.6928080954101915,
+  "state_dict_tensors": 380,
+  "parameter_elements_in_state_dict": 26919177,
+  "observed_shapes": {
+    "attention.0.weight": [
+      128,
+      2048
+    ],
+    "tda_branch.input_proj.0.weight": [
+      128,
+      156
+    ],
+    "classifier.0.weight": [
+      512,
+      2176
+    ],
+    "classifier.8.weight": [
+      6,
+      256
+    ]
+  }
+}
