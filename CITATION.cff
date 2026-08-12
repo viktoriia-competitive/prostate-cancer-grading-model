@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the accompanying research report."
+title: "A Hybrid CNN-TDA Framework for Automated Prostate Cancer Grading"
+type: software
+authors:
+  - family-names: "Volkova"
+    given-names: "Viktoriia"
+date-released: 2026-08-10
+institution: "Jagiellonian University"
