@@ -343,7 +343,6 @@ Coordinated by Bipin Indurkhya
 
 - The reported hybrid metric uses a 40-sample development validation subset, not the full 2,104 validation set.
 - The report's TDA reference model uses 1,500 training samples.
-- Current TDA analysis uses H0 and H1 only.
 - Tile stacking is a simplified representation of whole-slide spatial structure.
 - The supplied checkpoint and the current `c.py` snapshot correspond to different hybrid architecture variants.
 - No external clinical validation is established by the supplied artifacts.
